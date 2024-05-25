@@ -1,4 +1,4 @@
-name: HyperSerialESP32 CI Build1
+name: HyperSerialESP32 CI Build
 
 on: [push]
 
